@@ -1,6 +1,6 @@
 # RISC-V RV32I Emulator
 
-This project is a Java-based emulator for the RISC-V RV32I instruction set. The emulator supports a subset of the RV32I instruction set, focusing on base integer instructions except for `fence`. This project allows you to execute RISC-V instructions, examine register states, and trace memory accesses.
+This project is a Java-based emulator for the RISC-V RV32I instruction set. The emulator supports a subset of the RV32I instruction set, focusing on base integer instructions except for `fence`. This project allows you to execute RISC-V instructions and examine register states.
 
 For learning purposes only.
 
